@@ -1,0 +1,31 @@
+restaurant_id,restaurant_name,city,food_type,rating,review_text,review_date,customer_name
+1,Paradise,Hyderabad,Biryani,4.6,Excellent biryani and good service,2025-01-15,Rahul
+2,Bawarchi,Hyderabad,Biryani,4.3,Tasty biryani but crowded place,2025-01-20,Sneha
+3,Cafe Niloufer,Hyderabad,Cafe,4.5,Great tea and ambience,2025-02-10,Amit
+4,Shah Ghouse,Hyderabad,Biryani,4.7,Authentic Hyderabadi biryani with rich flavors,2025-02-12,Priya
+5,Pista House,Hyderabad,Bakery,4.4,Famous haleem and excellent desserts,2025-02-18,Rohan
+6,Mehfil,Hyderabad,Biryani,4.2,Affordable biryani with decent service,2025-02-20,Meena
+7,Royal Biryani,Hyderabad,Biryani,4.8,Best biryani in the city excellent taste,2025-03-15,Kiran
+8,Hotel Shadab,Hyderabad,Indian,4.5,Good food and traditional ambience,2025-03-20,Anil
+9,Chutneys,Hyderabad,South Indian,4.7,Delicious dosa varieties and quick service,2025-03-22,Divya
+10,Minerva Coffee Shop,Hyderabad,South Indian,4.6,Excellent breakfast and friendly staff,2025-03-25,Vikram
+11,Barbeque Nation,Hyderabad,BBQ,4.4,Wide buffet options and good hospitality,2025-03-28,Karthik
+12,Absolute Barbecues,Hyderabad,BBQ,4.5,Tasty grilled food and desserts,2025-04-01,Sanjana
+13,Tosh E Danesh,Hyderabad,Middle Eastern,4.3,Great kebabs and authentic flavors,2025-04-03,Harsha
+14,Mandi 36,Hyderabad,Mandi,4.6,Large portions and flavorful mandi,2025-04-05,Naveen
+15,The Spicy Venue,Hyderabad,Indian,4.7,Excellent Andhra cuisine and ambience,2025-04-08,Pooja
+16,Cream Stone,Hyderabad,Desserts,4.5,Amazing ice creams and toppings,2025-04-10,Suresh
+17,Concu,Hyderabad,Cafe,4.4,Beautiful ambience and tasty pastries,2025-04-12,Neha
+18,Roastery Coffee House,Hyderabad,Cafe,4.8,Excellent coffee and peaceful atmosphere,2025-04-15,Akash
+19,Santosh Dhaba,Hyderabad,North Indian,4.2,Affordable meals and quick service,2025-04-18,Teja
+20,Ulavacharu,Hyderabad,Andhra,4.6,Authentic Andhra meals and curries,2025-04-20,Lakshmi
+21,Spice Garden,Bangalore,Indian,4.7,Authentic food and friendly staff,2025-02-12,Priya
+22,Food Hub,Bangalore,Fast Food,3.2,Service was slow and food was average,2025-03-20,Anil
+23,Urban Cafe,Bangalore,Cafe,4.1,Nice ambience but parking is difficult,2025-04-10,Vikram
+24,Empire Restaurant,Bangalore,Indian,4.3,Good kebabs and late night service,2025-04-15,Rakesh
+25,Italian House,Chennai,Italian,4.4,Delicious pasta and cozy atmosphere,2025-03-05,Rohan
+26,Coffee Corner,Chennai,Cafe,4.2,Good coffee and pleasant ambience,2025-03-10,Meena
+27,Green Leaf,Chennai,Vegetarian,4.6,Healthy food and quick service,2025-04-01,Divya
+28,Little Italy,Chennai,Italian,4.5,Authentic Italian food and good ambience,2025-04-12,Sanjay
+29,Murugan Idli Shop,Chennai,South Indian,4.7,Soft idlis and excellent chutneys,2025-04-20,Kavya
+30,Cafe Niloufer Premium,Hyderabad,Cafe,4.7,Famous tea with excellent customer service,2025-04-25,Manoj
